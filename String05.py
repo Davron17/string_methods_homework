@@ -7,4 +7,6 @@ def main(s):
         str: answer
     """
     
-    return
+    return s.capitalize()
+print(main("hello world"))
+print(main("python"))
