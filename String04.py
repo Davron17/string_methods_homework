@@ -7,4 +7,6 @@ def main(s):
         bool: answer
     """
     
-    return
+    return s.isalpha()
+print(main("Google is a search engine"))
+print(main("codeschool"))
